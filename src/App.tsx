@@ -1,9 +1,9 @@
-import Login from "@/crafts/craft03/Login";
+import Craft from "@/crafts/craft04/Smooth-Slide";
 
 function App() {
   return (
     <div>
-      <Login />
+      <Craft />
     </div>
   );
 }
