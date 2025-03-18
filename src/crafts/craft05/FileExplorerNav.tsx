@@ -47,7 +47,7 @@ function FileExplorerNav({ items }: Props) {
       <div className="relative">
         <button
           className={cn(
-            "flex items-center py-1.5 pr-2 rounded-lg hover:bg-gray-800 transition-colors cursor-pointer text-sm gap-2 w-full focus:outline-none focus:bg-gray-800",
+            "flex items-center py-1.5 pr-2 rounded-lg hover:bg-gray-800 transition-colors cursor-pointer text-sm gap-2 w-full focus:outline-none focus-visible:bg-gray-800",
             {
               "text-white": isOpen,
             }
