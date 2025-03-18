@@ -1,4 +1,4 @@
-import Craft from "@/crafts/craft04/Smooth-Slide";
+import Craft from "@/crafts/craft05/NextJsDocSidebar";
 
 function App() {
   return (
