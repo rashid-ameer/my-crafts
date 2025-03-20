@@ -1,4 +1,4 @@
-import Craft from "@/crafts/craft05/NextJsDocSidebar";
+import Craft from "@/crafts/craft06/App";
 
 function App() {
   return (
